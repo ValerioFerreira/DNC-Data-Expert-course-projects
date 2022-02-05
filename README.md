@@ -5,7 +5,7 @@ Análise feita sobre a tabela de vôos da cidade de Nova Iorque
 
 Projeto do Day 6 do curso **Data Expert** da **DNC Group**
 
-Foram respondidas as seguintes questões:
+Onde foram respondidas as seguintes questões:
 
 1. Qual o comportamento médio e a variância dos dados dos voos que atrasam mais de 
 duas horas? 
